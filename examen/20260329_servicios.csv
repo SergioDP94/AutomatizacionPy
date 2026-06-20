@@ -1,0 +1,17 @@
+fecha,hora,id_agente,tipo_servicio,monto,distrito,caja
+2026-03-29,9:27,161,pago de agua,137.9,Surco,18
+2026-03-29,11:56,041,pago de luz,8.66,Surco,17
+2026-03-29,11:20,008,pago de luz,64.46,Lima Centro,17
+2026-03-29,14:46,079,pago de gas,184.14,San Isidro,5
+2026-03-29,17:04,051,pago de agua,18.38,SJL,4
+2026-03-29,12:13,005,pago de agua,292.84,Lima Centro,13
+2026-03-29,10:06,174,pago de gas,262.56,Los Olivos,8
+2026-03-29,17:51,058,pago de servicio,264.44,Surco,3
+2026-03-29,14:53,025,pago de gas,124.38,Los Olivos,3
+2026-03-29,9:43,203,pago de agua,213.88,Lima Centro,18
+2026-03-29,18:41,160,pago de servicio,178.2,Callao,16
+2026-03-29,18:23,082,pago de luz,47.09,Callao,7
+2026-03-29,8:04,150,pago de servicio,250.93,Lima Centro,2
+2026-03-29,14:21,025,pago de agua,101.49,Callao,17
+2026-03-29,11:42,136,pago de agua,164.65,SJL,9
+2026-03-29,11:47,139,pago de luz,76.52,San Isidro,18
