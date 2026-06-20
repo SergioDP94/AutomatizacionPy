@@ -1,0 +1,75 @@
+fecha,hora,id_agente,tipo_operacion,monto,distrito,canal
+2026-01-28,16:51,145,depósito,2364.48,Los Olivos,web
+2026-01-28,9:29,088,depósito,1406.36,Lima Centro,caja
+2026-01-28,14:37,079,depósito,4220.45,SJL,web
+2026-01-28,12:37,155,retiro,2217.19,Surco,caja
+2026-01-28,15:08,168,depósito,3492.56,Lima Centro,caja
+2026-01-28,16:07,178,retiro,889.71,Callao,app
+2026-01-28,12:28,134,retiro,4023.81,Surco,web
+2026-01-28,15:57,029,retiro,2269.83,Surco,caja
+2026-01-28,8:41,096,retiro,4105.65,Lima Centro,web
+2026-01-28,8:20,192,depósito,351.27,Callao,app
+2026-01-28,9:40,170,depósito,3976.63,Surco,caja
+2026-01-28,18:15,196,retiro,4007.6,Miraflores,app
+2026-01-28,16:50,096,depósito,959.03,Miraflores,web
+2026-01-28,12:33,144,depósito,2716.67,Lima Centro,web
+2026-01-28,8:08,230,depósito,1396.96,Callao,caja
+2026-01-28,13:40,158,depósito,2485.84,San Isidro,web
+2026-01-28,9:18,106,retiro,1700.83,Surco,caja
+2026-01-28,10:44,205,retiro,61.83,Los Olivos,web
+2026-01-28,8:59,150,retiro,2211.26,SJL,web
+2026-01-28,13:37,068,retiro,278.92,San Isidro,caja
+2026-01-28,13:19,108,depósito,4360.43,Surco,caja
+2026-01-28,16:26,052,retiro,876.13,San Isidro,web
+2026-01-28,10:55,054,depósito,1054.66,Los Olivos,web
+2026-01-28,17:45,094,retiro,445.95,Miraflores,web
+2026-01-28,16:46,183,depósito,4000.6,Los Olivos,caja
+2026-01-28,8:21,075,retiro,411.15,Lima Centro,app
+2026-01-28,17:52,188,depósito,3022.94,Lima Centro,web
+2026-01-28,13:07,134,retiro,2774.37,Lima Centro,caja
+2026-01-28,8:23,123,retiro,4365.14,Surco,app
+2026-01-28,16:59,086,retiro,2483.32,Surco,web
+2026-01-28,14:20,041,depósito,4204.17,Miraflores,web
+2026-01-28,16:36,232,retiro,3787.62,Callao,web
+2026-01-28,11:53,010,depósito,3280.73,SJL,app
+2026-01-28,10:18,155,retiro,703.82,Los Olivos,web
+2026-01-28,13:39,126,depósito,658.24,Surco,web
+2026-01-28,13:40,119,depósito,3933.34,Miraflores,app
+2026-01-28,15:49,029,depósito,4457.41,San Isidro,web
+2026-01-28,10:02,166,depósito,1681.69,Miraflores,app
+2026-01-28,14:51,185,retiro,1695.45,Los Olivos,web
+2026-01-28,9:22,028,depósito,1453.08,SJL,web
+2026-01-28,13:05,201,depósito,331.86,SJL,caja
+2026-01-28,9:23,029,retiro,749.2,Surco,app
+2026-01-28,12:01,117,depósito,1824.55,San Isidro,web
+2026-01-28,11:15,193,depósito,4599.7,Lima Centro,caja
+2026-01-28,13:33,076,retiro,2040.98,Miraflores,caja
+2026-01-28,10:59,195,retiro,633.95,SJL,app
+2026-01-28,16:51,228,depósito,2773.5,Miraflores,app
+2026-01-28,10:07,218,retiro,1956.22,Surco,caja
+2026-01-28,16:50,159,depósito,1517.61,Surco,app
+2026-01-28,15:53,045,depósito,583.34,Lima Centro,app
+2026-01-28,18:41,103,retiro,1096.85,Callao,caja
+2026-01-28,12:02,044,retiro,4933.77,Lima Centro,web
+2026-01-28,12:31,023,retiro,2716.7,Los Olivos,caja
+2026-01-28,17:55,067,retiro,3991.37,Los Olivos,caja
+2026-01-28,10:27,023,retiro,984.58,Surco,caja
+2026-01-28,14:45,011,depósito,1167.57,Lima Centro,web
+2026-01-28,18:21,074,depósito,2738.32,San Isidro,app
+2026-01-28,12:32,160,depósito,1471.86,Surco,app
+2026-01-28,13:44,172,retiro,4706.28,Miraflores,web
+2026-01-28,10:33,207,depósito,22.15,San Isidro,caja
+2026-01-28,15:02,210,retiro,4977.64,Miraflores,web
+2026-01-28,9:11,126,retiro,2836.03,Callao,app
+2026-01-28,17:31,059,retiro,4684.81,SJL,web
+2026-01-28,18:29,123,retiro,4052.98,Callao,web
+2026-01-28,15:52,217,depósito,223.09,Miraflores,web
+2026-01-28,11:38,181,depósito,2726.78,Callao,app
+2026-01-28,14:53,118,retiro,2386.37,Lima Centro,app
+2026-01-28,11:03,034,retiro,2925.97,Miraflores,web
+2026-01-28,11:57,179,retiro,4795.23,Surco,web
+2026-01-28,10:25,195,depósito,1884.39,Los Olivos,web
+2026-01-28,13:32,062,retiro,3530.7,Lima Centro,app
+2026-01-28,11:38,201,depósito,556.08,Lima Centro,app
+2026-01-28,10:28,084,retiro,3744.52,Surco,web
+2026-01-28,14:21,042,depósito,1842.68,Lima Centro,web

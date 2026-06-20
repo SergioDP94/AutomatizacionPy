@@ -1,0 +1,81 @@
+fecha,hora,id_agente,tipo_operacion,monto,distrito,canal
+2026-01-31,17:21,228,retiro,2518.71,Los Olivos,app
+2026-01-31,18:05,114,retiro,3183.88,SJL,web
+2026-01-31,15:34,199,retiro,556.13,Los Olivos,app
+2026-01-31,14:33,074,depósito,4305.92,San Isidro,caja
+2026-01-31,10:11,100,retiro,350.09,Los Olivos,caja
+2026-01-31,9:19,197,retiro,3776.24,Surco,web
+2026-01-31,14:58,034,depósito,1182.27,San Isidro,app
+2026-01-31,12:58,171,depósito,649.2,SJL,app
+2026-01-31,17:11,074,retiro,2207.68,Surco,app
+2026-01-31,15:48,052,depósito,1740.34,San Isidro,web
+2026-01-31,15:46,211,depósito,2319.07,Los Olivos,web
+2026-01-31,17:32,016,depósito,1708.54,Lima Centro,caja
+2026-01-31,13:27,217,depósito,4658.69,Miraflores,caja
+2026-01-31,11:56,158,depósito,3280.87,Miraflores,caja
+2026-01-31,8:18,042,retiro,536.3,Lima Centro,app
+2026-01-31,14:45,066,depósito,4107.43,Lima Centro,app
+2026-01-31,9:38,027,depósito,3291.62,Surco,app
+2026-01-31,9:32,127,retiro,529.45,Los Olivos,app
+2026-01-31,17:50,153,depósito,482.49,San Isidro,app
+2026-01-31,14:26,172,retiro,4183.26,Callao,app
+2026-01-31,10:10,021,retiro,2448.35,San Isidro,caja
+2026-01-31,16:35,160,depósito,2522.69,Miraflores,caja
+2026-01-31,9:01,142,depósito,1776.09,Callao,caja
+2026-01-31,18:42,145,depósito,2305.68,San Isidro,caja
+2026-01-31,18:35,029,retiro,1674.57,Callao,caja
+2026-01-31,12:57,118,depósito,2484.69,San Isidro,web
+2026-01-31,18:36,218,retiro,1306.58,Miraflores,app
+2026-01-31,18:29,003,depósito,1508.95,Lima Centro,caja
+2026-01-31,14:51,216,depósito,774.76,SJL,web
+2026-01-31,17:13,042,retiro,384.37,Surco,caja
+2026-01-31,17:11,062,retiro,403.21,Lima Centro,caja
+2026-01-31,12:58,097,retiro,2128.09,Miraflores,caja
+2026-01-31,15:42,129,retiro,4836.6,Miraflores,caja
+2026-01-31,16:46,075,retiro,1497.39,Lima Centro,caja
+2026-01-31,11:20,201,depósito,1922.61,Lima Centro,web
+2026-01-31,12:03,025,depósito,1311.39,SJL,web
+2026-01-31,10:45,226,retiro,4446.7,Los Olivos,app
+2026-01-31,8:53,040,depósito,2320.57,Miraflores,app
+2026-01-31,10:15,164,retiro,1688.55,Callao,web
+2026-01-31,13:01,098,retiro,3991.47,Miraflores,caja
+2026-01-31,10:10,039,depósito,3812.32,Miraflores,app
+2026-01-31,16:36,168,depósito,3465.79,Lima Centro,app
+2026-01-31,17:32,042,retiro,2216.77,Lima Centro,app
+2026-01-31,10:14,059,retiro,4688.03,Lima Centro,web
+2026-01-31,17:34,091,retiro,2586.93,Lima Centro,web
+2026-01-31,13:55,029,retiro,4697.29,Callao,app
+2026-01-31,11:08,007,retiro,227.74,Lima Centro,caja
+2026-01-31,13:54,067,retiro,1906.48,Los Olivos,app
+2026-01-31,10:01,039,retiro,1859.73,Surco,app
+2026-01-31,18:29,173,retiro,135.33,SJL,web
+2026-01-31,11:41,110,depósito,3138.68,Lima Centro,caja
+2026-01-31,13:07,232,depósito,221.67,Los Olivos,web
+2026-01-31,8:24,035,depósito,4620.13,Miraflores,app
+2026-01-31,9:16,083,depósito,4207.4,SJL,caja
+2026-01-31,10:23,198,retiro,2168.2,Los Olivos,caja
+2026-01-31,12:13,133,depósito,4514.71,Los Olivos,web
+2026-01-31,18:00,144,depósito,3396.01,Lima Centro,caja
+2026-01-31,8:23,226,retiro,3021.41,Callao,web
+2026-01-31,9:41,036,depósito,3462.44,Surco,app
+2026-01-31,11:45,135,depósito,516.09,Surco,app
+2026-01-31,8:02,156,depósito,346.08,SJL,app
+2026-01-31,14:07,176,depósito,2046.51,Miraflores,app
+2026-01-31,10:35,020,depósito,4501.78,Surco,web
+2026-01-31,12:49,057,retiro,1899.62,SJL,web
+2026-01-31,14:04,070,retiro,159.05,Surco,caja
+2026-01-31,14:24,043,retiro,4336.42,Lima Centro,caja
+2026-01-31,14:04,081,retiro,1144.77,Miraflores,caja
+2026-01-31,13:23,135,depósito,1425.31,Los Olivos,app
+2026-01-31,10:32,061,retiro,1378.91,Surco,web
+2026-01-31,14:23,074,depósito,1634.56,San Isidro,caja
+2026-01-31,12:43,053,depósito,1031.8,San Isidro,web
+2026-01-31,10:59,175,depósito,3674.83,Lima Centro,web
+2026-01-31,11:01,083,depósito,51.01,Callao,web
+2026-01-31,12:39,131,retiro,1427.09,SJL,app
+2026-01-31,14:51,165,retiro,2735.09,Callao,app
+2026-01-31,9:59,020,depósito,1271.26,San Isidro,web
+2026-01-31,17:03,226,depósito,499.08,SJL,app
+2026-01-31,15:16,216,depósito,893.67,Surco,web
+2026-01-31,11:07,075,retiro,968.06,San Isidro,app
+2026-01-31,16:26,136,depósito,1898.66,Callao,app

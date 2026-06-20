@@ -1,0 +1,42 @@
+fecha,hora,id_agente,tipo_servicio,monto,distrito,caja
+2026-02-07,15:34,148,pago de servicio,240.23,Surco,14
+2026-02-07,14:48,001,pago de servicio,253.87,Surco,20
+2026-02-07,9:11,218,pago de servicio,38.7,San Isidro,19
+2026-02-07,10:09,231,pago de agua,208.77,Miraflores,8
+2026-02-07,17:29,164,pago de servicio,199.49,Surco,8
+2026-02-07,17:43,075,pago de luz,31.4,SJL,5
+2026-02-07,17:22,028,pago de agua,270.33,San Isidro,10
+2026-02-07,15:09,153,pago de luz,138.88,Los Olivos,13
+2026-02-07,17:32,107,pago de servicio,99.9,San Isidro,15
+2026-02-07,15:57,195,pago de agua,133.3,Lima Centro,14
+2026-02-07,14:05,195,pago de gas,29.88,SJL,9
+2026-02-07,9:14,216,pago de luz,243.41,Surco,6
+2026-02-07,8:40,045,pago de servicio,233.38,San Isidro,4
+2026-02-07,8:08,113,pago de servicio,280.29,Los Olivos,10
+2026-02-07,18:08,214,pago de servicio,268.99,Callao,17
+2026-02-07,10:56,171,pago de gas,254.42,Los Olivos,4
+2026-02-07,14:22,174,pago de servicio,35.77,Lima Centro,6
+2026-02-07,15:28,111,pago de servicio,42.17,Miraflores,14
+2026-02-07,10:08,080,pago de gas,241.7,Lima Centro,5
+2026-02-07,8:47,039,pago de gas,110.99,Miraflores,20
+2026-02-07,18:01,047,pago de gas,279.21,Surco,20
+2026-02-07,13:28,195,pago de gas,275.6,Callao,19
+2026-02-07,9:38,189,pago de servicio,83.4,Miraflores,20
+2026-02-07,14:17,187,pago de servicio,37.4,Surco,4
+2026-02-07,12:39,025,pago de luz,135.72,Callao,19
+2026-02-07,14:23,094,pago de luz,29.88,SJL,5
+2026-02-07,17:02,195,pago de gas,278.8,Lima Centro,10
+2026-02-07,18:29,182,pago de luz,67.43,Surco,6
+2026-02-07,17:57,044,pago de gas,179.26,Callao,20
+2026-02-07,9:51,039,pago de luz,45.1,SJL,11
+2026-02-07,18:38,050,pago de gas,15.51,SJL,3
+2026-02-07,10:00,122,pago de servicio,256.87,Los Olivos,16
+2026-02-07,17:53,090,pago de agua,132.12,Callao,6
+2026-02-07,10:52,089,pago de luz,40.81,Surco,2
+2026-02-07,10:08,132,pago de luz,216.21,Los Olivos,20
+2026-02-07,15:46,007,pago de servicio,205.75,Callao,13
+2026-02-07,14:59,023,pago de luz,57.46,Callao,5
+2026-02-07,14:30,115,pago de luz,292.17,Miraflores,6
+2026-02-07,18:01,049,pago de gas,121.56,SJL,13
+2026-02-07,11:35,021,pago de gas,269.48,Los Olivos,1
+2026-02-07,10:49,171,pago de gas,39.93,Los Olivos,17

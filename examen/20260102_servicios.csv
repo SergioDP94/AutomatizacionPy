@@ -1,0 +1,60 @@
+fecha,hora,id_agente,tipo_servicio,monto,distrito,caja
+2026-01-02,18:32,154,pago de agua,125.16,Callao,7
+2026-01-02,9:47,010,pago de luz,120.15,Callao,8
+2026-01-02,12:51,117,pago de servicio,295.0,Surco,7
+2026-01-02,11:39,082,pago de gas,97.54,SJL,1
+2026-01-02,12:13,169,pago de servicio,149.35,Los Olivos,2
+2026-01-02,17:05,202,pago de luz,150.53,Los Olivos,19
+2026-01-02,13:11,018,pago de luz,77.37,SJL,10
+2026-01-02,17:19,092,pago de servicio,67.43,Callao,18
+2026-01-02,17:58,203,pago de luz,211.34,Surco,12
+2026-01-02,10:19,030,pago de servicio,228.73,Surco,9
+2026-01-02,11:20,231,pago de luz,210.78,Los Olivos,19
+2026-01-02,18:01,002,pago de agua,12.42,Surco,2
+2026-01-02,15:38,015,pago de gas,145.15,SJL,10
+2026-01-02,18:29,205,pago de servicio,127.37,Surco,3
+2026-01-02,9:45,132,pago de luz,285.04,Miraflores,10
+2026-01-02,18:30,191,pago de gas,187.92,Callao,9
+2026-01-02,16:05,078,pago de luz,211.42,Los Olivos,9
+2026-01-02,10:26,147,pago de agua,155.72,SJL,9
+2026-01-02,18:08,112,pago de luz,38.91,Los Olivos,17
+2026-01-02,15:05,055,pago de luz,226.32,Miraflores,11
+2026-01-02,14:18,078,pago de agua,255.56,Miraflores,8
+2026-01-02,8:15,167,pago de gas,187.46,Lima Centro,13
+2026-01-02,14:15,189,pago de agua,243.85,Los Olivos,12
+2026-01-02,15:09,192,pago de agua,14.59,San Isidro,12
+2026-01-02,15:48,071,pago de luz,122.78,Surco,16
+2026-01-02,18:47,003,pago de luz,158.38,Miraflores,11
+2026-01-02,17:12,094,pago de gas,95.04,San Isidro,17
+2026-01-02,9:27,059,pago de agua,219.43,SJL,9
+2026-01-02,11:22,140,pago de gas,59.89,Lima Centro,2
+2026-01-02,15:23,216,pago de luz,86.59,SJL,18
+2026-01-02,13:35,077,pago de gas,29.38,Miraflores,1
+2026-01-02,10:40,182,pago de luz,86.39,Callao,19
+2026-01-02,17:11,229,pago de servicio,143.83,Surco,15
+2026-01-02,11:16,083,pago de gas,226.4,SJL,17
+2026-01-02,11:13,071,pago de servicio,50.19,San Isidro,13
+2026-01-02,16:01,076,pago de gas,234.72,Surco,17
+2026-01-02,9:29,102,pago de gas,24.35,Lima Centro,12
+2026-01-02,10:23,045,pago de luz,16.45,San Isidro,16
+2026-01-02,10:53,170,pago de gas,210.04,Callao,1
+2026-01-02,12:32,060,pago de servicio,186.19,Lima Centro,19
+2026-01-02,8:01,123,pago de luz,71.58,Los Olivos,20
+2026-01-02,12:30,017,pago de agua,140.55,Callao,13
+2026-01-02,15:32,091,pago de agua,228.29,Callao,13
+2026-01-02,15:10,061,pago de servicio,42.36,Lima Centro,8
+2026-01-02,13:57,196,pago de servicio,192.51,San Isidro,3
+2026-01-02,18:20,062,pago de gas,291.97,Surco,7
+2026-01-02,9:11,077,pago de servicio,122.11,Callao,5
+2026-01-02,13:20,057,pago de gas,20.28,SJL,2
+2026-01-02,11:13,100,pago de servicio,115.9,Surco,4
+2026-01-02,16:12,088,pago de luz,66.85,Surco,4
+2026-01-02,10:36,192,pago de agua,50.95,Surco,7
+2026-01-02,12:24,201,pago de agua,198.54,Lima Centro,16
+2026-01-02,9:24,034,pago de luz,234.33,Los Olivos,6
+2026-01-02,10:59,175,pago de luz,191.53,Miraflores,8
+2026-01-02,18:28,206,pago de agua,187.58,SJL,8
+2026-01-02,17:42,016,pago de agua,50.36,Miraflores,10
+2026-01-02,13:45,063,pago de luz,106.59,Miraflores,14
+2026-01-02,12:50,004,pago de servicio,114.38,San Isidro,14
+2026-01-02,10:10,225,pago de servicio,17.32,Los Olivos,9

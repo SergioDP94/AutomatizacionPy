@@ -1,0 +1,41 @@
+fecha,hora,id_agente,tipo_servicio,monto,distrito,caja
+2026-02-10,17:19,083,pago de luz,154.21,Callao,3
+2026-02-10,10:11,043,pago de agua,202.73,San Isidro,13
+2026-02-10,18:15,217,pago de gas,7.5,San Isidro,6
+2026-02-10,11:02,064,pago de servicio,217.41,SJL,9
+2026-02-10,17:22,110,pago de gas,262.08,San Isidro,14
+2026-02-10,16:23,127,pago de luz,171.82,Lima Centro,6
+2026-02-10,16:09,103,pago de gas,83.15,Los Olivos,9
+2026-02-10,9:02,204,pago de gas,191.0,San Isidro,7
+2026-02-10,18:13,011,pago de agua,244.45,Callao,16
+2026-02-10,17:45,022,pago de luz,254.19,San Isidro,5
+2026-02-10,14:36,111,pago de servicio,141.94,Surco,16
+2026-02-10,12:57,033,pago de luz,115.13,Miraflores,15
+2026-02-10,15:04,077,pago de servicio,263.87,Surco,19
+2026-02-10,9:24,076,pago de servicio,103.33,Lima Centro,2
+2026-02-10,18:47,117,pago de agua,274.28,Miraflores,8
+2026-02-10,12:14,157,pago de agua,94.45,Miraflores,10
+2026-02-10,8:36,065,pago de servicio,146.35,Miraflores,18
+2026-02-10,13:55,143,pago de gas,121.33,Los Olivos,18
+2026-02-10,11:57,009,pago de servicio,60.42,Callao,11
+2026-02-10,8:04,131,pago de gas,60.74,Surco,18
+2026-02-10,13:33,129,pago de servicio,296.99,SJL,6
+2026-02-10,15:54,045,pago de gas,73.78,SJL,1
+2026-02-10,18:18,131,pago de gas,106.75,Los Olivos,4
+2026-02-10,16:52,058,pago de servicio,289.06,Surco,20
+2026-02-10,8:34,069,pago de servicio,216.26,Los Olivos,9
+2026-02-10,13:15,143,pago de luz,54.65,Miraflores,9
+2026-02-10,8:29,176,pago de agua,113.57,San Isidro,15
+2026-02-10,8:17,025,pago de servicio,245.5,Surco,11
+2026-02-10,9:15,136,pago de agua,134.57,Lima Centro,18
+2026-02-10,11:55,203,pago de agua,240.2,San Isidro,2
+2026-02-10,16:26,171,pago de agua,117.82,Los Olivos,16
+2026-02-10,11:51,045,pago de agua,8.27,Los Olivos,8
+2026-02-10,17:07,064,pago de luz,111.91,Los Olivos,6
+2026-02-10,11:38,072,pago de luz,177.86,SJL,8
+2026-02-10,17:16,203,pago de luz,22.25,San Isidro,1
+2026-02-10,17:33,065,pago de servicio,22.4,Lima Centro,12
+2026-02-10,10:17,198,pago de gas,44.18,Miraflores,18
+2026-02-10,18:42,215,pago de servicio,246.12,SJL,3
+2026-02-10,9:20,019,pago de servicio,71.18,Callao,6
+2026-02-10,14:18,111,pago de gas,274.04,San Isidro,6

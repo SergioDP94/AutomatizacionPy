@@ -1,0 +1,38 @@
+fecha,hora,id_agente,tipo_servicio,monto,distrito,caja
+2026-02-16,15:02,228,pago de gas,105.13,Callao,14
+2026-02-16,13:51,177,pago de agua,161.42,SJL,14
+2026-02-16,15:26,153,pago de luz,253.51,Los Olivos,18
+2026-02-16,18:07,114,pago de servicio,269.78,San Isidro,2
+2026-02-16,10:41,047,pago de servicio,65.55,Miraflores,9
+2026-02-16,10:13,041,pago de servicio,122.27,Surco,15
+2026-02-16,10:16,147,pago de gas,273.74,Lima Centro,19
+2026-02-16,18:05,234,pago de agua,251.29,Surco,6
+2026-02-16,16:57,198,pago de agua,213.82,Callao,14
+2026-02-16,13:19,195,pago de agua,286.9,Surco,11
+2026-02-16,16:54,138,pago de luz,88.95,SJL,3
+2026-02-16,15:42,104,pago de agua,148.79,SJL,12
+2026-02-16,14:48,218,pago de luz,299.71,Los Olivos,8
+2026-02-16,10:19,082,pago de agua,54.27,Los Olivos,18
+2026-02-16,10:34,091,pago de luz,253.51,San Isidro,3
+2026-02-16,18:31,003,pago de agua,279.77,Surco,14
+2026-02-16,16:22,172,pago de gas,268.09,Miraflores,18
+2026-02-16,14:08,208,pago de luz,131.48,Lima Centro,7
+2026-02-16,15:58,223,pago de agua,188.09,Callao,3
+2026-02-16,18:43,059,pago de luz,168.76,Surco,11
+2026-02-16,16:40,213,pago de gas,5.24,Miraflores,15
+2026-02-16,11:19,166,pago de agua,182.91,Los Olivos,3
+2026-02-16,16:18,194,pago de servicio,150.63,Miraflores,13
+2026-02-16,17:49,074,pago de servicio,127.5,Miraflores,14
+2026-02-16,8:33,021,pago de agua,211.28,Surco,2
+2026-02-16,8:01,234,pago de gas,235.35,Lima Centro,12
+2026-02-16,15:44,031,pago de servicio,276.67,Miraflores,14
+2026-02-16,8:41,149,pago de servicio,107.94,Los Olivos,15
+2026-02-16,9:16,095,pago de servicio,232.16,Lima Centro,13
+2026-02-16,14:42,197,pago de servicio,12.7,Surco,18
+2026-02-16,14:56,024,pago de gas,82.46,Callao,5
+2026-02-16,17:38,155,pago de servicio,148.87,Los Olivos,6
+2026-02-16,16:11,121,pago de gas,220.26,Los Olivos,13
+2026-02-16,11:24,154,pago de gas,82.37,Los Olivos,15
+2026-02-16,15:07,155,pago de servicio,178.64,Lima Centro,11
+2026-02-16,11:00,025,pago de luz,128.05,San Isidro,17
+2026-02-16,17:47,171,pago de luz,97.53,Callao,11

@@ -1,0 +1,41 @@
+fecha,hora,id_agente,tipo_servicio,monto,distrito,caja
+2026-02-09,18:44,154,pago de agua,136.08,SJL,17
+2026-02-09,10:26,074,pago de gas,87.44,SJL,16
+2026-02-09,18:37,226,pago de luz,105.91,SJL,15
+2026-02-09,8:31,089,pago de gas,15.44,SJL,17
+2026-02-09,9:17,025,pago de gas,40.42,Surco,16
+2026-02-09,9:14,141,pago de gas,150.2,Miraflores,15
+2026-02-09,8:25,030,pago de agua,218.87,Callao,16
+2026-02-09,12:39,111,pago de gas,160.0,Callao,2
+2026-02-09,14:30,115,pago de agua,44.41,Miraflores,10
+2026-02-09,17:28,014,pago de agua,226.51,San Isidro,15
+2026-02-09,15:42,165,pago de gas,149.34,Los Olivos,10
+2026-02-09,13:58,215,pago de luz,43.41,Callao,8
+2026-02-09,10:17,011,pago de gas,260.22,Lima Centro,8
+2026-02-09,16:40,092,pago de gas,240.91,Surco,2
+2026-02-09,11:02,143,pago de servicio,254.09,Callao,14
+2026-02-09,12:23,100,pago de gas,183.02,Lima Centro,11
+2026-02-09,17:23,036,pago de servicio,212.7,Callao,13
+2026-02-09,8:59,015,pago de servicio,108.88,Surco,1
+2026-02-09,11:50,072,pago de agua,191.74,Callao,4
+2026-02-09,8:25,077,pago de agua,186.17,Callao,18
+2026-02-09,13:09,204,pago de luz,64.73,San Isidro,14
+2026-02-09,16:40,233,pago de servicio,129.75,Los Olivos,5
+2026-02-09,15:33,035,pago de agua,295.69,Los Olivos,1
+2026-02-09,15:27,214,pago de agua,16.64,Callao,16
+2026-02-09,8:05,117,pago de agua,109.81,Los Olivos,7
+2026-02-09,9:05,088,pago de agua,245.01,Surco,8
+2026-02-09,11:28,172,pago de luz,287.35,Miraflores,9
+2026-02-09,15:37,058,pago de servicio,286.0,SJL,1
+2026-02-09,8:17,183,pago de luz,175.63,SJL,18
+2026-02-09,16:09,193,pago de gas,118.75,Los Olivos,15
+2026-02-09,13:01,220,pago de gas,114.9,Lima Centro,18
+2026-02-09,12:55,204,pago de servicio,107.43,Lima Centro,13
+2026-02-09,12:20,067,pago de agua,240.17,Surco,12
+2026-02-09,17:48,120,pago de servicio,115.48,San Isidro,19
+2026-02-09,15:10,067,pago de gas,298.04,San Isidro,11
+2026-02-09,17:41,018,pago de agua,55.54,SJL,12
+2026-02-09,12:24,031,pago de gas,273.04,Miraflores,12
+2026-02-09,13:45,146,pago de luz,257.92,Miraflores,8
+2026-02-09,16:27,053,pago de agua,215.98,Callao,18
+2026-02-09,8:02,224,pago de luz,154.1,Los Olivos,5

@@ -1,0 +1,39 @@
+fecha,hora,id_agente,tipo_servicio,monto,distrito,caja
+2026-02-14,9:11,096,pago de agua,162.6,Los Olivos,2
+2026-02-14,15:54,170,pago de luz,113.5,SJL,20
+2026-02-14,8:23,172,pago de agua,176.01,SJL,7
+2026-02-14,9:23,103,pago de agua,162.06,Callao,10
+2026-02-14,13:00,156,pago de servicio,100.35,SJL,14
+2026-02-14,15:06,207,pago de agua,136.18,SJL,6
+2026-02-14,16:14,123,pago de servicio,56.02,Surco,14
+2026-02-14,16:58,186,pago de servicio,179.12,Los Olivos,20
+2026-02-14,12:28,062,pago de agua,172.31,Los Olivos,5
+2026-02-14,11:14,122,pago de gas,92.99,Lima Centro,15
+2026-02-14,15:43,169,pago de gas,228.38,Miraflores,15
+2026-02-14,17:03,026,pago de servicio,106.71,Surco,5
+2026-02-14,15:18,161,pago de gas,232.6,SJL,4
+2026-02-14,16:11,161,pago de gas,187.63,SJL,16
+2026-02-14,9:42,013,pago de servicio,29.7,Los Olivos,1
+2026-02-14,17:30,224,pago de gas,286.83,Callao,16
+2026-02-14,17:28,221,pago de agua,204.64,Miraflores,7
+2026-02-14,14:33,234,pago de gas,272.55,Lima Centro,6
+2026-02-14,14:13,234,pago de agua,167.66,Miraflores,8
+2026-02-14,16:27,180,pago de servicio,151.97,Miraflores,7
+2026-02-14,15:27,079,pago de luz,269.57,Lima Centro,20
+2026-02-14,14:05,174,pago de gas,255.38,Lima Centro,16
+2026-02-14,12:51,196,pago de agua,177.08,Miraflores,4
+2026-02-14,11:38,132,pago de gas,237.1,SJL,17
+2026-02-14,16:11,101,pago de gas,126.88,San Isidro,12
+2026-02-14,13:27,119,pago de gas,157.74,Los Olivos,19
+2026-02-14,15:53,122,pago de luz,32.81,Miraflores,11
+2026-02-14,11:34,016,pago de gas,52.74,Surco,8
+2026-02-14,13:43,001,pago de gas,124.06,Los Olivos,9
+2026-02-14,13:14,043,pago de agua,175.22,SJL,8
+2026-02-14,12:52,214,pago de luz,218.25,Miraflores,14
+2026-02-14,18:03,054,pago de servicio,73.35,Surco,11
+2026-02-14,9:08,144,pago de agua,130.87,Miraflores,13
+2026-02-14,16:57,067,pago de luz,209.6,SJL,1
+2026-02-14,13:22,007,pago de agua,288.03,Miraflores,17
+2026-02-14,11:45,130,pago de luz,214.89,Los Olivos,17
+2026-02-14,14:50,109,pago de agua,156.27,SJL,7
+2026-02-14,14:11,113,pago de gas,46.95,Lima Centro,17

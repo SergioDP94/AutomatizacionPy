@@ -1,0 +1,39 @@
+fecha,hora,id_agente,tipo_servicio,monto,distrito,caja
+2026-02-13,10:36,052,pago de gas,259.6,Surco,10
+2026-02-13,12:48,010,pago de servicio,242.64,SJL,5
+2026-02-13,11:19,084,pago de luz,212.21,Callao,10
+2026-02-13,8:58,079,pago de luz,286.42,Surco,11
+2026-02-13,18:05,040,pago de servicio,8.18,SJL,3
+2026-02-13,15:49,111,pago de luz,18.02,Callao,11
+2026-02-13,10:41,091,pago de luz,15.81,Lima Centro,20
+2026-02-13,15:17,209,pago de luz,176.48,Miraflores,6
+2026-02-13,17:30,162,pago de luz,101.36,SJL,15
+2026-02-13,18:10,078,pago de servicio,39.86,San Isidro,3
+2026-02-13,11:48,092,pago de luz,87.13,Surco,16
+2026-02-13,18:59,014,pago de luz,245.84,Surco,13
+2026-02-13,12:35,091,pago de gas,65.28,Lima Centro,9
+2026-02-13,10:01,195,pago de agua,176.07,Los Olivos,8
+2026-02-13,8:36,099,pago de luz,198.1,Callao,13
+2026-02-13,13:21,069,pago de luz,248.58,Los Olivos,9
+2026-02-13,16:43,183,pago de servicio,154.76,Surco,3
+2026-02-13,14:51,190,pago de agua,59.3,Lima Centro,19
+2026-02-13,9:06,026,pago de servicio,143.14,Lima Centro,18
+2026-02-13,17:39,224,pago de luz,112.23,Miraflores,1
+2026-02-13,14:45,058,pago de agua,102.56,Miraflores,17
+2026-02-13,12:59,192,pago de agua,164.16,Miraflores,11
+2026-02-13,14:04,044,pago de luz,135.1,SJL,9
+2026-02-13,18:42,115,pago de luz,192.22,Surco,10
+2026-02-13,12:28,165,pago de luz,114.49,San Isidro,12
+2026-02-13,12:10,189,pago de gas,236.99,Surco,13
+2026-02-13,12:38,228,pago de gas,26.65,Miraflores,9
+2026-02-13,18:40,029,pago de servicio,184.84,Surco,3
+2026-02-13,13:19,156,pago de gas,208.5,SJL,7
+2026-02-13,9:18,135,pago de servicio,53.14,San Isidro,20
+2026-02-13,11:10,175,pago de agua,53.06,San Isidro,9
+2026-02-13,9:36,168,pago de gas,195.16,Los Olivos,6
+2026-02-13,17:19,078,pago de gas,103.4,SJL,7
+2026-02-13,10:15,232,pago de luz,151.54,Miraflores,4
+2026-02-13,18:53,150,pago de agua,109.4,Los Olivos,16
+2026-02-13,10:19,119,pago de agua,23.2,Los Olivos,18
+2026-02-13,9:14,019,pago de gas,163.6,Los Olivos,14
+2026-02-13,16:16,198,pago de luz,62.52,Callao,8

@@ -1,0 +1,41 @@
+fecha,hora,id_agente,tipo_operacion,monto,distrito,canal
+2026-01-11,16:52,180,retiro,278.8,San Isidro,caja
+2026-01-11,10:59,198,retiro,4721.57,Callao,caja
+2026-01-11,14:19,004,depósito,3629.43,SJL,caja
+2026-01-11,17:40,220,retiro,263.66,Los Olivos,app
+2026-01-11,10:20,062,retiro,64.95,Callao,web
+2026-01-11,9:32,183,retiro,1149.24,Callao,app
+2026-01-11,9:44,055,depósito,3161.86,Miraflores,app
+2026-01-11,15:48,129,depósito,4909.54,Los Olivos,app
+2026-01-11,18:48,096,retiro,308.82,Surco,caja
+2026-01-11,11:06,216,depósito,3090.58,Lima Centro,caja
+2026-01-11,12:10,172,retiro,4715.71,Callao,caja
+2026-01-11,11:21,167,retiro,2790.67,Callao,app
+2026-01-11,11:22,071,depósito,3283.65,Callao,caja
+2026-01-11,11:15,158,retiro,1177.7,Miraflores,caja
+2026-01-11,10:11,121,depósito,3226.97,San Isidro,caja
+2026-01-11,9:26,022,retiro,3591.73,Callao,caja
+2026-01-11,17:10,174,retiro,4117.26,SJL,app
+2026-01-11,10:09,037,retiro,2422.77,Los Olivos,app
+2026-01-11,16:09,133,retiro,4323.86,SJL,web
+2026-01-11,9:13,113,depósito,812.9,San Isidro,caja
+2026-01-11,8:42,129,depósito,3507.17,Surco,caja
+2026-01-11,8:44,159,retiro,4068.14,SJL,web
+2026-01-11,14:38,118,depósito,283.51,Surco,web
+2026-01-11,10:08,068,depósito,971.07,San Isidro,caja
+2026-01-11,10:24,202,retiro,1747.25,SJL,app
+2026-01-11,14:16,151,depósito,1797.61,San Isidro,web
+2026-01-11,12:53,112,retiro,894.78,Surco,caja
+2026-01-11,12:45,207,retiro,1917.76,SJL,web
+2026-01-11,18:28,063,depósito,1553.45,SJL,app
+2026-01-11,14:21,110,retiro,663.46,Miraflores,app
+2026-01-11,15:07,072,retiro,435.37,Miraflores,app
+2026-01-11,9:05,107,depósito,3200.02,Los Olivos,caja
+2026-01-11,16:35,032,retiro,1469.25,Lima Centro,app
+2026-01-11,8:04,016,depósito,4859.66,Lima Centro,app
+2026-01-11,9:18,061,depósito,924.37,Miraflores,web
+2026-01-11,13:37,120,retiro,3172.84,Surco,caja
+2026-01-11,16:04,197,retiro,117.12,Lima Centro,web
+2026-01-11,13:58,163,depósito,749.06,Lima Centro,web
+2026-01-11,18:16,135,retiro,1592.13,Callao,web
+2026-01-11,8:56,054,depósito,2543.18,Miraflores,web

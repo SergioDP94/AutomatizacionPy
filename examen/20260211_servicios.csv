@@ -1,0 +1,40 @@
+fecha,hora,id_agente,tipo_servicio,monto,distrito,caja
+2026-02-11,9:12,152,pago de gas,25.35,Surco,16
+2026-02-11,15:50,156,pago de luz,58.9,San Isidro,10
+2026-02-11,11:04,051,pago de luz,71.75,SJL,19
+2026-02-11,15:47,069,pago de gas,59.2,Los Olivos,5
+2026-02-11,8:01,025,pago de agua,151.93,San Isidro,4
+2026-02-11,9:46,211,pago de gas,81.25,Miraflores,2
+2026-02-11,10:11,175,pago de luz,61.99,Los Olivos,19
+2026-02-11,17:40,078,pago de gas,48.11,Surco,15
+2026-02-11,10:45,170,pago de servicio,7.93,Los Olivos,15
+2026-02-11,9:09,223,pago de agua,259.79,Lima Centro,2
+2026-02-11,12:33,073,pago de servicio,273.88,San Isidro,7
+2026-02-11,11:26,152,pago de gas,159.13,Surco,15
+2026-02-11,11:48,161,pago de servicio,162.06,SJL,4
+2026-02-11,8:01,232,pago de luz,178.14,Los Olivos,8
+2026-02-11,12:25,219,pago de luz,34.96,Lima Centro,1
+2026-02-11,10:00,194,pago de agua,189.05,SJL,8
+2026-02-11,15:31,207,pago de servicio,220.5,San Isidro,10
+2026-02-11,13:29,060,pago de gas,210.68,Callao,9
+2026-02-11,15:10,189,pago de agua,100.86,Callao,2
+2026-02-11,13:33,150,pago de luz,142.94,Miraflores,3
+2026-02-11,14:14,145,pago de servicio,186.72,Surco,20
+2026-02-11,15:49,210,pago de servicio,29.84,Lima Centro,10
+2026-02-11,14:36,211,pago de gas,270.27,Callao,20
+2026-02-11,15:00,170,pago de agua,129.99,Callao,8
+2026-02-11,16:08,099,pago de servicio,33.11,Lima Centro,12
+2026-02-11,9:40,081,pago de gas,21.38,SJL,1
+2026-02-11,12:10,195,pago de luz,246.36,Callao,6
+2026-02-11,9:35,178,pago de agua,119.32,Surco,14
+2026-02-11,12:13,035,pago de servicio,180.99,Lima Centro,13
+2026-02-11,10:41,227,pago de agua,272.3,Los Olivos,2
+2026-02-11,17:20,078,pago de luz,21.93,SJL,18
+2026-02-11,18:37,017,pago de gas,13.31,Los Olivos,19
+2026-02-11,14:15,005,pago de gas,7.77,Surco,19
+2026-02-11,15:23,038,pago de luz,267.79,Los Olivos,19
+2026-02-11,15:42,154,pago de agua,179.73,Callao,15
+2026-02-11,18:29,126,pago de agua,146.45,Surco,8
+2026-02-11,17:50,084,pago de luz,158.25,Los Olivos,13
+2026-02-11,13:26,173,pago de luz,118.78,Lima Centro,6
+2026-02-11,15:51,111,pago de agua,224.61,Surco,2
